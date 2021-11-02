@@ -1,4 +1,4 @@
-# ball-bouncing
+# Ball bouncing
 타입스크립트 기반의 HTMLCanvasElement를 활용한 공 튀기기
 
 ## Getting start
