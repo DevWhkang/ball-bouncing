@@ -1,4 +1,4 @@
-import Ball from './ball.js';
+import Ball from './ball';
 
 class App {
   protected canvas: HTMLCanvasElement;
