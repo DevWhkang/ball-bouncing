@@ -2,7 +2,7 @@
   "name": "ball-bouncing",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/index.html",
+  "main": "src/index.html",
   "scripts": {
     "start": "webpack -w",
     "build": "webpack",
