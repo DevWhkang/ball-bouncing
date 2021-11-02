@@ -27,5 +27,5 @@ module.exports = {
   parserOptions: {
     parser: '@typescript-eslint/parser',
   },
-  ignorePatterns: ['dist/', 'node_modules/'],
+  ignorePatterns: ['dist/', 'node_modules/', 'webpack.config.js'],
 };
